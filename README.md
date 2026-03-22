@@ -51,7 +51,8 @@ Normally, the current flows from Vcc, through a current-limiting resistor, throu
 
 Current always favors the path of least resistance. The jumper wire has virtually zero resistance compared to the LED, so the current bypasses (or "shorts") the LED entirely, flowing through the button instead and causing the light to turn off while the button is held.
 
-![Challenge 3 Circuit](<img width="601" height="823" alt="Screenshot from 2026-03-22 20-45-10" src="https://github.com/user-attachments/assets/e0aa04f2-3ff6-40a4-ab1c-3fa6f2cb81f1" />)
+![Challenge 3 Circuit](https://github.com/user-attachments/assets/97fc6cce-9d6c-43ed-8d2c-d33631249861)
+
 
 ---
 
