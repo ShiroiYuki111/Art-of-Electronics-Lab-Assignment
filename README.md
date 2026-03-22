@@ -70,3 +70,8 @@ A tri-color LED consists of three individual LEDs (Red, Green, Blue) sharing a c
 By combining the button presses and varying the physical resistance on the Green and Blue channels, a wide spectrum of mixed light colors can be generated.
 
 ![Challenge 4 Circuit](![IMG-20260318-WA0004 jpg](https://github.com/user-attachments/assets/04a3c00e-955c-445b-afe4-6e386a8b2e03)
+
+Lab Participants
+Regan Dangol
+Amrit Singh
+Ahad chy
